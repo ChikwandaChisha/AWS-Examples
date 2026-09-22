@@ -1,0 +1,13 @@
+{
+  "name": "AWS Development Environment",
+  "features": {
+    "ghcr.io/devcontainers/features/aws-cli:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "amazonwebservices.aws-toolkit-vscode"
+      ]
+    }
+  }
+}
