@@ -13,7 +13,3 @@ tasks:
       rm -rf aws awscliv2.zip
       cd $THEIA_WORKSPACE_ROOT
 
-vscode:
-  extensions:
-    - amazonwebservices.aws-toolkit-vscode
-
