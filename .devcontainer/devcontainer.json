@@ -1,0 +1,14 @@
+{
+	"name": "AWS Examples",
+	"build": {
+		"dockerfile": "Dockerfile",
+		"context": ".."
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"amazonwebservices.aws-toolkit-vscode"
+			]
+		}
+	}
+}
